@@ -1,0 +1,6 @@
+{
+  "name": "Wavelink",
+  "description": "A modern social networking platform to share posts, follow creators, explore trending topics, and connect via messages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
